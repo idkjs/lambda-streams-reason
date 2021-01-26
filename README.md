@@ -45,3 +45,9 @@ See [LICENSE][3]
 [1]: https://risto-stevcev.github.io/lambda-streams/lambda_streams
 [2]: https://risto-stevcev.github.io/lambda-streams
 [3]: https://github.com/Risto-Stevcev/lambda-streams/blob/master/LICENSE
+
+## Notes
+
+Running `make test` passes all the tests but the compiler seems to think there are errors.
+
+![Errors](./Errors.png)
